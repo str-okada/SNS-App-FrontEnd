@@ -37,9 +37,9 @@
     font-size: 12px;
 }
 
-.postTopRight{
+/* .postTopRight{
 
-}
+} */
 
 .postCenter{
     margin: 20px 0;
@@ -47,9 +47,9 @@
     flex-direction: column;
 }
 
-.postText{
+/* .postText{
 
-}
+} */
 
 .postImg{
     margin-top: 20px;
@@ -80,8 +80,8 @@
     font-size: 15px;
 }
 
-.postBottomRight{
-}
+/* .postBottomRight{
+} */
 
 .postCommentText{
     cursor: pointer;
